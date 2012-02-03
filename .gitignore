@@ -1,0 +1,9 @@
+*.pyc
+*.pyo
+.hg
+.svn
+.bzr
+dist
+test.py
+bin
+include
